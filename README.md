@@ -7,5 +7,6 @@ Shiny Aging Murine Multi Omic Analyzed (Shiny AMMOA) is a graphical user interfa
 When using this tool, please cite:
 > *Coming Soon*
 
-This repository provides the source code for the lightweight web version operated in : [https://m-ninomiya-kanda.shinyapps.io/shiny_ammoa/](https://m-ninomiya-kanda.shinyapps.io/shiny_ammoa/)
+This repository provides the source code for the lightweight web version operated in : [https://m-ninomiya-kanda.shinyapps.io/shiny_ammoa/](https://m-ninomiya-kanda.shinyapps.io/shiny_ammoa/).
+  
 The source scripts for data preprocessing and a local full-feature version are available in other repositories on the author’s [GitHub page](https://github.com/M-Ninomiya-Kanda).

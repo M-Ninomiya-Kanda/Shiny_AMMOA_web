@@ -575,7 +575,7 @@ ui <- page_navbar(
                 tags$ul(
                   tags$li(
                     a("GitHub Repository",
-                      href = "https://github.com/M-Ninomiya-Kanda/Shiny_AMMOA",
+                      href = "https://github.com/M-Ninomiya-Kanda/Shiny_AMMOA_web",
                       target = "_blank")
                   )
                 ),

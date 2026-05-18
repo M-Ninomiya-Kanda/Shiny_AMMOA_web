@@ -1,7 +1,7 @@
 # UI -----
 
 ui <- page_navbar(
-  title = "Shiny AMMOA (Web Ver 0.1)",
+  title = "Shiny AMMOA (Web Ver 1.0)",
   # Choose appearance theme
   theme = bs_theme(bootswatch = "minty"),
   
@@ -561,7 +561,7 @@ ui <- page_navbar(
                 h3("Version History"),
                 tags$ul(
                   tags$li("2025-12-23 Ver. 0.1 (Pre-release Build)"),
-                  tags$li("2026-04-24 Ver. 1.0 (First-Launched Build)")
+                  tags$li("2026-15-18 Ver. 1.0 (First-Launched Build)")
                 ),
                 
                 h3("Please Site"),

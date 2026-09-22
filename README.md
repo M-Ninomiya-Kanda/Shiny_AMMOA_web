@@ -6,8 +6,8 @@ Shiny Aging Murine Multi Omic Analyzed (Shiny AMMOA) is a graphical user interfa
 
 When using this tool, please cite:
 > Shiny AMMOA: an interactive platform for integrative multi-omics analysis of murine aging
-Mayuka Ninomiya Kanda
-bioRxiv 2026.05.18.726091; [DOI link](https://doi.org/10.64898/2026.05.18.726091)
+> Mayuka Ninomiya Kanda
+> bioRxiv 2026.05.18.726091; [DOI link](https://doi.org/10.64898/2026.05.18.726091)
 
 This repository provides the source code for the lightweight web version operated in : [https://m-ninomiya-kanda-shiny-ammoa-web.share.connect.posit.cloud/](https://m-ninomiya-kanda-shiny-ammoa-web.share.connect.posit.cloud/).
   
